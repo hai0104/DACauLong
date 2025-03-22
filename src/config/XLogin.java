@@ -12,7 +12,7 @@ import entity.NhanVienModel;
  */
 public class XLogin {
     public static NhanVienModel user = null;
-    
+    // SUA LAN2
    public static void dangXuat(){
         XLogin.user = null;
     }
