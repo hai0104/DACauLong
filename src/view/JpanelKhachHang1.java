@@ -30,7 +30,7 @@ public class JpanelKhachHang1 extends javax.swing.JPanel {
     List<KhachHangModel> list = new ArrayList<>();
     private DefaultTableModel mol = new DefaultTableModel();
     private int i;
-
+//done
     /**
      * Creates new form JpanelKhachHang1
      */

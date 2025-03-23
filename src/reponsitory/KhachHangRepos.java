@@ -14,7 +14,7 @@ public class KhachHangRepos {
     private PreparedStatement ps = null;
     private ResultSet rs = null;
     private String sql = null;
-
+//done
     public ArrayList<KhachHangModel> getAll() {
         ArrayList<KhachHangModel> listKH = new ArrayList<>();
         sql = "select Ma_Khach_Hang, Ten_Khach_Hang, Dia_Chi, SDT, Gioi_Tinh, Trang_Thai, Ghi_Chu from KHACH_HANG WHere Trang_Thai = 0";

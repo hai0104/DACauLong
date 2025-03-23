@@ -26,7 +26,7 @@ public class KhachHangJDialog extends javax.swing.JDialog {
     public static String sdt = null;
     public static String tenkh = null;
     public static String diachi = null;
-
+//done
     /**
      * Creates new form KhachHangJDialog
      */

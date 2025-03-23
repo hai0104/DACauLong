@@ -11,7 +11,7 @@ import javax.swing.JFrame;
  * @author Asus
  */
 public class JpanelTrangChu extends javax.swing.JPanel {
-
+// done
     /**
      * Creates new form JpanelTrangChu
      */
