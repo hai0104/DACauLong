@@ -13,7 +13,8 @@ import response.SanPhamChiTietResponse;
  *
  * @author NKHOA_01
  */
-
+//done
+    
 public class SanPhamChiTiet {
     private int id;
     private int idSp;
