@@ -19,6 +19,8 @@ public class JpanelTrangChu extends javax.swing.JPanel {
         initComponents();
     }
 
+    //done
+
 //        public static void main(String[] args) {
 //            JFrame frame = new JFrame("Trang chu view");
 //        JpanelTrangChu hoaDon_View = new JpanelTrangChu();
