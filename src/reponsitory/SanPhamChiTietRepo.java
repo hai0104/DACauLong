@@ -20,6 +20,7 @@ import response.SanPhamChiTietResponse;
  *
  * @author NKHOA_01
  */
+//done
 public class SanPhamChiTietRepo {
 
     public ArrayList<SanPhamChiTietResponse> getAllSPCT() {
