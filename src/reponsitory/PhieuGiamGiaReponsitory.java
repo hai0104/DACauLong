@@ -15,6 +15,8 @@ import java.sql.ResultSet;
  *
  * @author Asus
  */
+
+//done
 public class PhieuGiamGiaReponsitory {
 
     public ArrayList<PhieuGiamGia> getAll() {
