@@ -3,6 +3,7 @@ package response;
 import java.util.Date;
 import lombok.Builder;
 @Builder
+    //done
 public class SanPhamChiTietResponse {
     private int id;
     private String MaSP;
