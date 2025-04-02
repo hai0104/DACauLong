@@ -29,6 +29,7 @@ import reponsitory.ThongkeReponsitory;
  *
  * @author Asus
  */
+//done
 public class JpanelThongKe extends javax.swing.JPanel {
 
     ThongkeReponsitory TKR = new ThongkeReponsitory();
