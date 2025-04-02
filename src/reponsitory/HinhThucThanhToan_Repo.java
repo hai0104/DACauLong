@@ -17,6 +17,7 @@ import response.HoaDon_Response;
  *
  * @author Admin
  */
+//done
 public class HinhThucThanhToan_Repo {
     
     private Connection con = null;
